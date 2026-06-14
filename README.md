@@ -435,4 +435,4 @@ If you need to re-run setup on an existing device:
 - **Multi-device timezone differences.** If you use cronical across devices in different timezones, calendar event times will reflect the timezone of whichever device last pushed. For personal single-timezone use this is not an issue.
 
 
-[![Visitor](https://hits.sh/github.com/echov4/cronical.svg?label=Visitors)](https://hits.sh)
+[![Visitor](https://hits.sh/github.com/mua42/cronical.svg?label=Visitors)](https://hits.sh)
